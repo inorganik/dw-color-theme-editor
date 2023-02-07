@@ -311,7 +311,7 @@ code {
 </head>
 
 <body>
-<h1 style="display:inline-block;">Dreamweaver Color Theme Editor&nbsp;</h1><span>by <a style="color:#4d63bc;" href="https://twitter.com/inorganik" target="_blank">@inorganik</a></span>
+<h1 style="display:inline-block;">Dreamweaver Color Theme Editor&nbsp;</h1><span>by <a style="color:#4d63bc;" href="https://inorganik.net" target="_blank">inorganik</a></span>
 <p>Edit your Dreamweaver code colors. Click a color to change it, or type in a hex value. <a href="#instructions">Installation instructions</a>, how to <a href="#restore">restore default colors</a> and <a href="#about">about</a> are at the bottom.</p>
 <p>Start with: <a <?php if ($themeSetting == 0) echo "class=\"active\" "; ?>href="?">Easy-transition-to-dark theme</a> &nbsp;|&nbsp; <a <?php if ($themeSetting == 1) echo "class=\"active\" "; ?>href="?t=default">Default theme</a> &nbsp;|&nbsp; <a <?php if ($themeSetting == 3) echo "class=\"active\" "; ?>href="#yourTheme">Upload and edit your own theme</a></p>
 
